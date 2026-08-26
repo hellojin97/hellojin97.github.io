@@ -28,3 +28,6 @@ yarn.lock
 # ide
 .idea
 *.iml
+
+# Obsidian vault config
+.obsidian/
