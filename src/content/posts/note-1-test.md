@@ -7,6 +7,8 @@ category: Data Engineering
 draft: false
 ---
 
-```python
-print("hello")
+여기에 본문을 작성하세요.
+
+```java
+System.out.println("hello world");
 ```
